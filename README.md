@@ -1,4 +1,3 @@
-## Junior Full stack development
 ### About me
 - 👨🏻‍💼 My name is Adam setiadi
 - 🏠 Live in `Bandung, Indonesia`
