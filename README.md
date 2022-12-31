@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @madam007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-madam007/madam007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Junior Full stack development
+### About me
+- 👨🏻‍💼 My name is Adam setiadi
+- 🏠 Live in `Bandung, Indonesia`
+- 👶🏻 Born in `Bandung 16-11-2001`
+- 🧍🏻‍♂️ `21` years old
+- 💻 `Computer Science` Student at `Universitas Bale Bandung`
+- 🌏 Languages
+  - 🇮🇩 Indonesian
+  - 🇮🇩 Sundanese
+  - 🇬🇧 English
